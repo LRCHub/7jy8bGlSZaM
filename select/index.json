@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "モス",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-03-15T16:09:45.785957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moth [モス]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Moth_[モス]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モス",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_モス_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_モス_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モス",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_モス_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サカナクション / モス　-Music Video-",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_サカナクション___モス_-Music_Video-_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "モス",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/06_モス_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "モス - Moth",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/07_モス_-_Moth_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドランク・アンド・ホット・ガールズFEAT.モス・デフ",
+      "artist": "K.West",
+      "has_synced": true,
+      "path": "select/08_ドランク・アンド・ホット・ガールズFEAT.モス・デフ_K.West.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モス",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_モス_サカナクション.txt"
+    }
+  ]
+}
